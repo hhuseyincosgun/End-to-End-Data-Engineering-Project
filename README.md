@@ -1,5 +1,7 @@
 ### End to End Data Engineering Project
 
+![Your paragraph text](https://github.com/hhuseyincosgun/01sensorsrealtimedashboards/assets/21257660/62d6b8c5-0731-4172-a9ad-fc0c0c0b2acb)
+
 #### About Dataset
 
 #### Context
@@ -13,4 +15,4 @@ The passive infrared sensor (PIR sensor) is an electronic sensor that measures i
 
 #### Step - 1: Data Preprocessing
 
-![Your paragraph text](https://github.com/hhuseyincosgun/01sensorsrealtimedashboards/assets/21257660/62d6b8c5-0731-4172-a9ad-fc0c0c0b2acb)
+
